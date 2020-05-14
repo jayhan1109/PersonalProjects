@@ -1,7 +1,7 @@
 # PersonalProjects
 
 NetFlix Clone (Personal Project)
-https://github.com/jayhan1109/netflixclone
+https://netflix-jay-han.herokuapp.com/
 
 League Of Legends Stat (Personal Project)
 https://github.com/jayhan1109/leagueOfLegend
